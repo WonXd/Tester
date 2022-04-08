@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
+global.owner = ['573508884488','62895337447795','6281575886399']
+global.premium = ['573508884488']
 global.ownername = 'RiychDwayne'
 global.botname = 'Chika-Md'
 global.footer = 'RiychDwayne'
